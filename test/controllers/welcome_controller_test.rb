@@ -1,6 +1,6 @@
 require 'test_helper'
 
-class WelconmeControllerTest < ActionDispatch::IntegrationTest
+class WelcomeControllerTest < ActionDispatch::IntegrationTest
   # test "the truth" do
   #   assert true
   # end

@@ -1,2 +1,2 @@
-module WelconmeHelper
+module WelcomeHelper
 end
