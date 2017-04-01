@@ -1,0 +1,2 @@
+module WelconmeHelper
+end
